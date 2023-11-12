@@ -1,17 +1,29 @@
- ## Hi there 👋❤
+### Hi there 👋, I'm Rabiul Miah
+#### Web Developer
+![Web Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9lTkFIMxTwL7A5Q2HRysshudjXaS1oEuSJA&usqp=CAU)
+
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include React JS, JavaScript as well as HTML & CSS
+
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning javascript 
+- 👯 I’m looking to collaborate on git and github 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rabiulislamrobi)  
 
-**rabiulislamrobi/rabiulislamrobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=rabiulislamrobi)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiulislamrobi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabiulislamrobi&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/rabiulislamrobi)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rabiulislamrobi)  
+
 
 
