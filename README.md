@@ -39,5 +39,12 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rabiulislamrobi)  
 
+### Sports / Game / Activities / Hobby:
+
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+- ✈️ Travelling
+
+
 
 
