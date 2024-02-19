@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rabiul Miah
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/D4E16AQH8sB8xd98JrQ/profile-displaybackgroundimage-shrink_350_1400/0/1701069513028?e=1706745600&v=beta&t=TivOhY0cF33Wnh6HsjiPNeIWBF7eq7MtlHHRwfExo_g )
+![Web Developer](https://media.licdn.com/dms/image/D4E16AQH8sB8xd98JrQ/profile-displaybackgroundimage-shrink_350_1400/0/1701069513028?e=1714003200&v=beta&t=BdMIQX8D5t1LXIV8l0_rLQSpjQhNy9NmCUC2ieOu8L8)
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include React JS, JavaScript as well as HTML & CSS
 
